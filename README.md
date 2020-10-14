@@ -28,10 +28,14 @@ A powerful react native starter template that bootstraps development of your mob
 git clone https://github.com/mding-gyb/Mark-Net
 
 # Navigate to clonned folder and Install dependencies
-cd react-native-starter && yarn install
+cd Mark-Net
+brew install yarn (maybe?)
+yarn install
 
 # Install Pods
-cd ios && pod install
+cd ios
+brew install pod (maybe?)
+pod install
 ```
 
 #### 2. Open RNS in your iOS simulator
